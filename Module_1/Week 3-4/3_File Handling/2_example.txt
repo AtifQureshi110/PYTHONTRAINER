@@ -1,0 +1,3 @@
+Hello, World!
+Writing to a file in Python.
+Appended content.
