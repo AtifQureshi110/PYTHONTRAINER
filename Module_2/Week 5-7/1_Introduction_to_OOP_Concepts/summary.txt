@@ -1,0 +1,6 @@
+Summary:
+Class and Object: Define and create instances for real-world entities.
+Encapsulation: Protect internal state by controlling access to attributes.
+Inheritance: Reuse code by inheriting from existing classes.
+Polymorphism: Handle different objects using a common interface.
+Abstraction: Focus on essential details, hiding complex implementations.
