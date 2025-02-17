@@ -1,4 +1,4 @@
-# aruthmetic
+# arithmetic
 a = 10
 b = 3
 print(f"Addition: {a + b}")  
